@@ -1,6 +1,6 @@
 ### I like Cook & Bake & Cake 👨‍🍳 🍰 🍞
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feomtaehyeon%2Fhit-counter&count_bg=%23434541&title_bg=%23408457&icon=staffbase.svg&icon_color=%23FFFFFF&title=Eomtaehyeon&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feomtaehyeon%2Fhit-counter&count_bg=%23434541&title_bg=%23408457&icon=github.svg&icon_color=%23FFFFFF&title=Eomtaehyeon&edge_flat=false)](https://hits.seeyoufarm.com)
 
 :mortar_board: Bachelor of Food Culinary from Seoul Hoseo Vocational College  
 :pen: majored in Bachelor of Food Culinary and Bachelor of Arts in Hotel Confectionery and Baking  
