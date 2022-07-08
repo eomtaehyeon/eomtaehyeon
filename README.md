@@ -9,7 +9,7 @@
 
 <div align = center>
 
-[![gmail badge](https://img.shields.io/badge/-Gmail-b23121?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gkdlrhfo@naver.com)](mailto:gkdlrhfo@naver.com) [![instagram badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/hi__gorae)](https://www.instagram.com/hi__gorae)
+[![instagram badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/hi__gorae)](https://www.instagram.com/hi__gorae)
 [![Tech badge](https://img.shields.io/badge/-Blog-24292E?style=flat-square&logo=github&logoColor=white&link=https://eomtaehyeon.github.io)](https://eomtaehyeon.github.io)
 
 </div>
