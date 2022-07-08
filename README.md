@@ -5,7 +5,7 @@
 :mortar_board: Bachelor of Food Culinary from Seoul Hoseo Vocational College  
 :pen: majored in Bachelor of Food Culinary and Bachelor of Arts in Hotel Confectionery and Baking  
 :computer: Learning R, SQL, and Python   
-:woman_technologist: Interested in CV    
+:man_technologist: Interested in CV    
 
 <div align = center>
 
